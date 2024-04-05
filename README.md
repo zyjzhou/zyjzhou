@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ziyue Zhou, Jacky is my preferred nickname :)
+- 👋 Hi, I’m Ziyue Zhou, you can call me Jacky :)
 - 👀 I’m interested in medical science, python programming, and machine learning.
 - 🌱 I’m currently learning data analysis, particularly in the healthcare domain. 
 - 📫 You can visit my LinkedIn profile and connect with me.
